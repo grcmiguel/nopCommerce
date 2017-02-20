@@ -1814,6 +1814,9 @@ set @resources='
   <LocaleResource Name="Admin.Promotions.Discounts.Requirements.RemoveGroup">
     <Value>Remove group</Value>
   </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Discounts.IgnoreDiscounts.Warning">
+    <Value>In order to use this functionality you have to disable the following setting: Configuration > Catalog settings > Ignore discounts (sitewide).</Value>
+  </LocaleResource>
 </Language>
 '
 
